@@ -1,0 +1,8 @@
+Cliente;Juan Perez;11111111-1;Av. Siempre Viva;742;Llanquihue;Springfield;Chilena
+GuiaTuristico;Maria Gomez;22222222-2;Los Aromos;123;Llanquihue;Puerto Varas;Ingles;5
+ColaboradorExterno;Pedro Sanchez;33333333-3;Los Robles;456;Llanquihue;Frutillar;Transporte;TransFrutillar
+Cliente;Daniela Rios;18696482-9;Calle Falsa;123;Llanquihue;Pto Varas;Chilena
+GuiaTuristico;Matias Adasme;18168607-3;Calle Falsa;123;Llanquihue;Pto Varas;español, ingles;13
+ColaboradorExterno;Pascale Adasme;27740702-7;Calle Falsa;123;Llanquihue;Pto Varas;guiado osorno;Pasqui exped
+Cliente;Daniela Rios;18696482-9;Calle Falsa;123;Pto Varas;Llanquihue;Chilena
+Cliente;luchito mario;9.999.999-9;falsa;000;San Bernardo;santiago;chileno

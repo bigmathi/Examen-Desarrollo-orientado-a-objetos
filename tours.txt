@@ -1,0 +1,3 @@
+Volcan Osorno;Paseo al volcan con vista al lago;25000
+Saltos del Petrohue;Visita a los saltos y lago Todos los Santos;30000
+pesca ensenada;pesca deportiva;300000
